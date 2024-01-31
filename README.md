@@ -5,3 +5,5 @@
 - NodeJS
 - Mysql/MariaDB (XAMPP)
 - Live Server
+
+## Sobre o Projeto Hortifrut
