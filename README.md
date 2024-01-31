@@ -1,5 +1,5 @@
 # Hortifrut_Vendas
- ▶ Projeto Full stack (MySQL, NodeJS, JS).
+ -> Projeto Full stack (MySQL, NodeJS, JS).
   
 ## - Sobre o Projeto Hortifrut
 
