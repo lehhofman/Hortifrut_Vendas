@@ -6,4 +6,4 @@
 - Mysql/MariaDB (XAMPP)
 - Live Server
 
-## Sobre o Projeto Hortifrut
+## - Sobre o Projeto Hortifrut
