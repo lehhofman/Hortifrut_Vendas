@@ -29,6 +29,3 @@
 ```
 **7.** - Acesse a pasta **front** e execute o index.html via Live Server.
 
-# Prints das Telas
-![Tela01](./Telas/tela1.png)
-![Tela01](./Telas/tela2.png)
