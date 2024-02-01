@@ -32,8 +32,8 @@
 # Como são as páginas:
 
 - **Página onde irá inserir os dados no formulário:**
-![Tela01](./Tela/tela1.png)
+![Tela01](./Telas/tela1.png)
 
 - **Página onde irá ver as compras cadastradas:**
-![Tela01](./Tela/tela2.png)
+![Tela01](./Telas/tela2.png)
 
