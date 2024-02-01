@@ -7,7 +7,7 @@
 
 ## Técnologias
 - NodeJS;
-- Mysql/MariaDB (XAMPP);
+- Mysql / MariaDB (XAMPP);
 - Live Server.
 
 ## Como testar
