@@ -21,12 +21,10 @@
 - cd back
 - npm i
 ```
-- **6** Inicie o Back-End;
+- **6** Inicie o Back-End, com um dos comandos abaixo;
 ```bash
 - node server.js
-ou
 - nodemon
-ou
 - npx nodemon
 ```
 **7** - Acesse a pasta **front** e execute o index.html via Live Server.
