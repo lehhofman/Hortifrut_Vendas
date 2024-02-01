@@ -29,3 +29,11 @@
 ```
 **7.** - Acesse a pasta **front** e execute o index.html via Live Server.
 
+# Como são as páginas:
+
+- **Página onde irá inserir os dados no formulário:**
+![Tela01](./Tela/tela1.png)
+
+- **Página onde irá ver as compras cadastradas:**
+![Tela01](./Tela/tela2.png)
+
