@@ -72,27 +72,27 @@
 
 <script>
 
-const dados = document.getElementById('dados');
+    const dados = document.getElementById('dados');
 
-fetch('http://localhost:3000/produtos')
-    .then(res => res.json())
-    .then(res => {
+    fetch('http://localhost:3000/produtos')
+        .then(res => res.json())
+        .then(res => {
 
-        res.forEach(element => {
+            res.forEach(element => {
 
-            dados.innerHTML += `<tr>
-                <td>${element.cpf}</td>
-                <td>${element.nome}</td>
-                <td>${element.produtos}</td>
-                <td>${parseFloat(element.valor).toFixed(2)}</td>
-                <td>${element.quantidade}</td>
-                <td>${parseFloat(element.total).toFixed(2)}</td>
-                <td>${element.data}</td>
-            </tr>`;
+                dados.innerHTML += `<tr>
+                    <td>${element.cpf}</td>
+                    <td>${element.nome}</td>
+                    <td>${element.produtos}</td>
+                    <td>${parseFloat(element.valor).toFixed(2)}</td>
+                    <td>${element.quantidade}</td>
+                    <td>${parseFloat(element.total).toFixed(2)}</td>
+                    <td>${element.data}</td>
+                </tr>`;
+
+            });
 
         });
-
-    });
 
 </script>
 

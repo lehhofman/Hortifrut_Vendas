@@ -21,7 +21,8 @@ insert into produtos(cpf, nome, produtos, valor, quantidade, total, data)
 values
 
 ("111.111.111-11", "Maria", "Melacia", 15.90, "1", 15.90, "2024-01-28 08:45:20"),
-("333.333.333-33", "João", "Banana", 01.10, "3", 3.30, "2024-01-30 16:24:43");
+("222.222.222-22", "Jana", "Laranja", 00.80, "10", 08.00, "2024-01-30 16:24:43"),
+("333.333.333-33", "João", "Banana", 01.10, "3", 03.30, "2024-01-30 16:24:43");
 
 
 select * from produtos;
